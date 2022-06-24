@@ -1,0 +1,11 @@
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\obj\Debug\Kohnen.csproj.AssemblyReference.cache
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\obj\Debug\Kohnen.csproj.SuggestedBindingRedirects.cache
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\obj\Debug\Kohnen.Form1.resources
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\obj\Debug\Kohnen.Properties.Resources.resources
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\obj\Debug\Kohnen.csproj.GenerateResource.cache
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\obj\Debug\Kohnen.csproj.CoreCompileInputs.cache
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\bin\Debug\Kohnen.exe.config
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\bin\Debug\Kohnen.exe
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\bin\Debug\Kohnen.pdb
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\obj\Debug\Kohnen.exe
+C:\Users\renzh\Desktop\Papo4ka\Kohnen\Kohnen\obj\Debug\Kohnen.pdb
